@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7d5144b4f7c9af649a32600a30396a01
+timeCreated: 1484961984
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SplinterWood
+  fontNames:
+  - SplinterWood
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
